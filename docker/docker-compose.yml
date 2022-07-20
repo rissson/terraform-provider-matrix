@@ -3,5 +3,5 @@ version: "3.5"
 
 services:
   synapse:
-    image: docker.io/matrixdotorg/synapse:1.49.2
+    image: docker.io/matrixdotorg/synapse:v1.63.1
     network_mode: host
